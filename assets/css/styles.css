@@ -502,12 +502,12 @@ img{
 
 .project__title,.project__description{
   color: var(--first-color-lighten);
-  align-items: center;
+ 
 }
 
 .project__description{
   margin-bottom: var(--mb-4);
-  align-items: center;
+  
 }
 
 

@@ -112,6 +112,13 @@ img{
   text-align: center;
   font-weight: var(--font-bold);
 }
+.sections-subtitle{
+  display : block;
+  font-size: var(--small-font-size);
+  color: var(--first-color-darken);
+  text-align: center;
+  font-weight: var(--font-bold);
+}
 .works-subtitle{
   display : block;
   font-size: var(--smaller-font-size);
@@ -528,6 +535,10 @@ img{
 
 
 
+/* ===== area=====*/
+.sections-subtitle{
+  margin-bottom: 5%;
+}
 /* ===== WORKS =====*/
 .works__container{
   justify-items: center;
